@@ -1,0 +1,186 @@
+{
+  "tenders": [
+    {
+      "number": "291313",
+      "status": "Yakunlangan",
+      "closingDate": "24.08.2023",
+      "title": "Покупка Программное обеспечение в сфере информационных технологий в международной",
+      "buyer": {
+        "type": "Tashkillovchi",
+        "organization": {
+          "name": "TECH MEDIA MCHJ",
+          "link": "/organization/e743ce987e04"
+        }
+      },
+      "winner": {
+        "type": "Tender g’olibi",
+        "organization": {
+          "name": "БУНЁДКОР КУРУВЧИ САНОАТ КУРИЛИШ ХК",
+          "link": "/organization/9fcc6df72330"
+        }
+      },
+      "startDate": "17.08.2023 17:47:43",
+      "endDate": "24.08.2023 17:47:43",
+      "budget": {
+        "amount": "458 640 000 000,00",
+        "currency": "UZS"
+      }
+    },
+    {
+      "number": "238758",
+      "status": "Yakunlangan",
+      "closingDate": "23.03.2023",
+      "title": "Закупка, установка и гарантированное техническое обслуживание  малых солнечных ФЭС  для нужд социальных и государственных объектов",
+      "buyer": {
+        "type": "Tashkillovchi",
+        "organization": {
+          "name": "ООО \"Yashil Energiya\"",
+          "link": "/organization/88272f50fbfe"
+        }
+      },
+      "winner": {
+        "type": "Tender g’olibi",
+        "organization": {
+          "name": "ООО \"Cifra B\"",
+          "link": "/organization/efba1a3ab4d8"
+        }
+      },
+      "startDate": "13.03.2023 18:27:20",
+      "endDate": "23.03.2023 18:27:20",
+      "budget": {
+        "amount": "415 500 000 000,00",
+        "currency": "UZS"
+      }
+    },
+    {
+      "number": "238745",
+      "status": "Yakunlangan",
+      "closingDate": "23.03.2023",
+      "title": "Закупка, установка и гарантированное техническое обслуживание  малых солнечных ФЭС  для нужд социальных и государственных объектов",
+      "buyer": {
+        "type": "Tashkillovchi",
+        "organization": {
+          "name": "ООО \"Yashil Energiya\"",
+          "link": "/organization/88272f50fbfe"
+        }
+      },
+      "winner": {
+        "type": "Tender g’olibi",
+        "organization": {
+          "name": "VIRTEC POWER",
+          "link": "/organization/d5b727d23ddc"
+        }
+      },
+      "startDate": "13.03.2023 18:13:48",
+      "endDate": "23.03.2023 18:13:48",
+      "budget": {
+        "amount": "405 500 000 000,00",
+        "currency": "UZS"
+      }
+    },
+    {
+      "number": "238759",
+      "status": "Yakunlangan",
+      "closingDate": "23.03.2023",
+      "title": "Закупка, установка и гарантированное техническое обслуживание  малых солнечных ФЭС  для нужд социальных и государственных объектов",
+      "buyer": {
+        "type": "Tashkillovchi",
+        "organization": {
+          "name": "ООО \"Yashil Energiya\"",
+          "link": "/organization/88272f50fbfe"
+        }
+      },
+      "winner": {
+        "type": "Tender g’olibi",
+        "organization": {
+          "name": "ООО \"Cifra B\"",
+          "link": "/organization/efba1a3ab4d8"
+        }
+      },
+      "startDate": "13.03.2023 18:29:12",
+      "endDate": "23.03.2023 18:29:12",
+      "budget": {
+        "amount": "361 000 000 000,00",
+        "currency": "UZS"
+      }
+    },
+    {
+      "number": "238761",
+      "status": "Yakunlangan",
+      "closingDate": "23.03.2023",
+      "title": "Закупка, установка и гарантированное техническое обслуживание малых солнечных ФЭС для нужд социальных и государственных объектов",
+      "buyer": {
+        "type": "Tashkillovchi",
+        "organization": {
+          "name": "ООО Yashil Energiya",
+          "link": "/organization/88272f50fbfe"
+        }
+      },
+      "winner": {
+        "type": "Tender g’olibi",
+        "organization": {
+          "name": "VIRTEC POWER",
+          "link": "/organization/d5b727d23ddc"
+        }
+      },
+      "startDate": "13.03.2023 18:31:44",
+      "endDate": "23.03.2023 18:31:44",
+      "budget": {
+        "amount": "338 000 000 000,00",
+        "currency": "UZS"
+      }
+    },
+    {
+      "number": "238754",
+      "status": "Yakunlangan",
+      "closingDate": "23.03.2023",
+      "title": "Закупка, установка и гарантированное техническое обслуживание малых солнечных ФЭС для нужд социальных и государственных объектов",
+      "buyer": {
+        "type": "Tashkillovchi",
+        "organization": {
+          "name": "ООО Yashil Energiya",
+          "link": "/organization/88272f50fbfe"
+        }
+      },
+      "winner": {
+        "type": "Tender g’olibi",
+        "organization": {
+          "name": "VIRTEC POWER",
+          "link": "/organization/d5b727d23ddc"
+        }
+      },
+      "startDate": "13.03.2023 18:24:00",
+      "endDate": "23.03.2023 18:24:00",
+      "budget": {
+        "amount": "333 000 000 000,00",
+        "currency": "UZS"
+      }
+    },
+    {
+      "number": "277332",
+      "status": "Yakunlangan",
+      "closingDate": "24.07.2023",
+      "title": "Эксплуатационная автодорога от поселка Пскем к створам объектов в верхнем течении реки Пскем",
+      "buyer": {
+        "type": "Tashkillovchi",
+        "organization": {
+          "name": "4-SON QURILISH DIREKSIYASI MCHJ",
+          "link": "/organization/6c9736a384ab"
+        }
+      },
+      "winner": {
+        "type": "Tender g’olibi",
+        "organization": {
+          "name": "ООО HOVO MEGA TRANSSTROY",
+          "link": "/organization/9ff90a0fedfc"
+        }
+      },
+      "startDate": "06.07.2023 11:16:43",
+      "endDate": "24.07.2023 11:16:43",
+      "budget": {
+        "amount": "211 894 834 100,00",
+        "currency": "UZS"
+      }
+    }
+  ]
+}
